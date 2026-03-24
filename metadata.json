@@ -1,0 +1,5 @@
+{
+  "name": "StorePilot - Retail Store OS",
+  "description": "A Quorso-inspired intelligent retail store management platform. It aggregates store data, uses Gemini AI to identify high-priority 'Missions' (action plans), and provides a co-pilot for store managers to optimize performance.",
+  "requestFramePermissions": []
+}
